@@ -8,9 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace MasterDataServices.ControlServices
 {
-    // Author: Prashanth
-    // Date: <20-Sep-2024>
-    // Description: EmployeeServices.
+  
     public class EmployeeServices : IEmployeeService
     {
         private readonly BaseDbContex DbContextAccess;
