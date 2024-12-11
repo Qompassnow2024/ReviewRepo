@@ -4,9 +4,7 @@ using MasterDataServices.Models.ResponseModels;
 
 namespace MasterDataServices.IControlServices
 {
-    // Author: Prashanth
-    // Date: <20-Sep-2024>
-    // Description: IEmployeeService.
+    
     public interface IEmployeeService
     {
         // Employee
