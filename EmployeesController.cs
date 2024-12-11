@@ -10,9 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace MasterDataServices.Controllers
 {
-    // Author: Prashanth
-    // Date: <20-Sep-2024>
-    // Description: Employees Controller.
+   
 
     [Authorize]
     [Route("QOM_API_V1/CMEmployees")]
